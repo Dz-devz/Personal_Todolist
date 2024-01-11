@@ -1,5 +1,7 @@
-This is my Personal Todo list with CRUD method, if you want to improve or take a look at it
+# This is my Personal/Plan Todo list 
+with CRUD method, if you want to improve or take a look at it
 
+## Steps
 just clone the app
 after cloning the app
 
